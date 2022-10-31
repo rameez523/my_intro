@@ -66,4 +66,4 @@ I mostly work with Dockers, Kubernetes Virtualization and Cloud based technologi
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/rameez-sheraz-a07437126/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/muhammadbilal523) ✨
- - Shoot Me an [Email](rameez1.ptcl@gmail.com) 💌
+ - Shoot Me an [Email](mailto:rameez1.ptcl@gmail.com) 💌
